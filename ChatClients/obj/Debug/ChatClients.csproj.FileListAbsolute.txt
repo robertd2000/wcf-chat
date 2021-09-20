@@ -1,0 +1,15 @@
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\bin\Debug\ChatClients.exe.config
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\bin\Debug\ChatClients.exe
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\bin\Debug\ChatClients.pdb
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.csproj.AssemblyReference.cache
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\MainWindow.g.cs
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\App.g.cs
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients_MarkupCompile.cache
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients_MarkupCompile.lref
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\MainWindow.baml
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.g.resources
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.Properties.Resources.resources
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.csproj.GenerateResource.cache
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.csproj.CoreCompileInputs.cache
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.exe
+C:\Users\RobertD\source\repos\Wcf_chat\ChatClients\obj\Debug\ChatClients.pdb
